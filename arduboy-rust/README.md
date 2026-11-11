@@ -1,10 +1,10 @@
 # Arduboy2 library wrapper
 
-This is a library used in [Rust for Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) to program Arduboy games in Rust.
+This is a library used in [Rust for Arduboy](https://github.com/nopwashere/Rust-for-Arduboy) to program Arduboy games in Rust.
 
 ## More info for the usage:
 
-[https://github.com/ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy)
+[https://github.com/nopwashere/Rust-for-Arduboy](https://github.com/nopwashere/Rust-for-Arduboy)
 
 ## License
 

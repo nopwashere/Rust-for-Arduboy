@@ -23,7 +23,7 @@
 //!
 //! To get an idea, the ArduboyTones Library needs additional 2-3% of the flash memory.
 //!
-//! <a href="https://github.com/zenndev1337/rust-for-arduboy" target="_blank">Here is the link to the GitHub Repo</a>
+//! <a href="https://github.com/nopwashere/Rust-for-Arduboy" target="_blank">Here is the link to the GitHub Repo</a>
 
 extern crate panic_halt;
 pub mod hardware;

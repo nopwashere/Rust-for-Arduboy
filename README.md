@@ -20,7 +20,7 @@ Most of the Arduboy2 funktions can be called the same way like in C.
 First clone the repo
 
 ```bash
-git clone https://github.com/ZennDev1337/Rust-for-Arduboy
+git clone https://github.com/nopwashere/Rust-for-Arduboy
 ```
 
 Install [PlatformIO Core](https://docs.platformio.org/en/latest/core/installation/methods/pypi.html) on your system.
@@ -47,7 +47,7 @@ normal Arduboy C project.
 
 You can find the Docs here:
 
-- [arduboy-rust Crate Docs](https://zenndev1337.github.io/Rust-for-Arduboy/)
+- [arduboy-rust Crate Docs](https://nopwashere.github.io/Rust-for-Arduboy/)
 
 or you can use the following command to open the arduboy-rust Crate docs locally
 
@@ -124,7 +124,7 @@ Usage FX-Data build and upload:
 - [demo4] [Make Your Own Arduboy Game: Part 4 - Questions & Button Input](https://community.arduboy.com/t/make-your-own-arduboy-game-part-4-questions-button-input/7927)
 - [demo5] [Make Your Own Arduboy Game: Part 5 - Your First Game!](https://community.arduboy.com/t/make-your-own-arduboy-game-part-5-your-first-game/7928)
 - [demo6] [Make Your Own Arduboy Game: Part 6 - Graphics!](https://community.arduboy.com/t/make-your-own-arduboy-game-part-6-graphics/7929)
-  Link for the [ZennDev1337 Tile Converter](https://zenndev1337.github.io/Rust-for-Arduboy/tile-converter.html)
+  Link for the [ZennDev1337 Tile Converter](https://nopwashere.github.io/Rust-for-Arduboy/tile-converter.html)
 - [demo7] [Make Your Own Arduboy Game: Part 7 - Make Pong From Scratch!](https://community.arduboy.com/t/make-your-own-arduboy-game-part-7-make-pong-from-scratch/7930)
 - Prepare for
   demo9 [Make Your Own Arduboy Game: Part 8 - Starting DinoSmasher](https://community.arduboy.com/t/make-your-own-arduboy-game-part-8-starting-dinosmasher/7932)
@@ -189,7 +189,7 @@ python .\run.py fxall <Project_Name>
 
 ### Convert the fxdata.h file to Rust
 
-[FXdata Converter by ZennDev1337](https://zenndev1337.github.io/Rust-for-Arduboy/fxdata-converter.html)
+[FXdata Converter by ZennDev1337](https://nopwashere.github.io/Rust-for-Arduboy/fxdata-converter.html)
 
 # Create a new project
 
